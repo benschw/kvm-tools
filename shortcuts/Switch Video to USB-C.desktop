@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Switch Video to USB-C
+Comment=Switch Video input to USB-C
+Exec=switch_video
+Icon=usb_video.png
+Terminal=false
+Type=Application

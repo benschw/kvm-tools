@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KVM Switch USB
+Comment=Switch USB inputs between KVM displays
+Exec=kvm_switch_usb
+Icon=usb_kvm.png
+Terminal=false
+Type=Application

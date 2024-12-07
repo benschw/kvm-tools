@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KVM PIP Position
+Comment=Switch PIP window position
+Exec=kvm_pip_position
+Icon=pip_position.png
+Terminal=false
+Type=Application

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KVM PIP Mode Big
+Comment=Switch PIP window to big mode
+Exec=kvm_pip_big
+Icon=pip_big.png
+Terminal=false
+Type=Application

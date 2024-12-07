@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=KVM PIP Mode Small
+Comment=Switch PIP window to small mode
+Exec=kvm_pip_small
+Icon=pip_small.png
+Terminal=false
+Type=Application
